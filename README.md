@@ -37,9 +37,6 @@ Capsule can be cloned and run on Unity for Meta Quest 3. Follow these steps to i
 3. Build and deploy to Meta Quest 3.
 4. Begin exploring memory capsules.
 
-## Documentation
-
-Documentation is available in the [Capsule Wiki](https://github.com/username/capsule/README.md).
 
 ## Contributing
 
