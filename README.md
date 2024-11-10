@@ -32,7 +32,7 @@ To deepen the therapeutic impact, we plan to incorporate audio-visual mementos t
 
 
 
-Acknowledgements: 
+## Acknowledgements
 Tools we used:
 Unity: Main development platform,
 Skybox AI: Memory scene environments,
