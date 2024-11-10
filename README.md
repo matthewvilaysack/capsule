@@ -39,19 +39,11 @@ Capsule can be cloned and run on Unity for Meta Quest 3. Follow these steps to i
 
 ## Documentation
 
-Documentation is available in the [Capsule Wiki](https://github.com/username/capsule/wiki).
-
-* [Quick Start](https://github.com/username/capsule/wiki/Quick-Start)
-* [User Guide](https://github.com/username/capsule/wiki/User-Guide)
-* [Contributing Guide](https://github.com/username/capsule/wiki/Contributing)
+Documentation is available in the [Capsule Wiki](https://github.com/username/capsule/README.md).
 
 ## Contributing
 
 We welcome contributions from the community. Please refer to our [contributing guide](https://github.com/username/capsule/blob/main/CONTRIBUTING.md) for details.
-
-### [Code of Conduct](https://github.com/username/capsule/blob/main/CODE_OF_CONDUCT.md)
-
-Please adhere to our Code of Conduct when contributing.
 
 ### License
 
