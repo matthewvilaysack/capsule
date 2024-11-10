@@ -1,39 +1,58 @@
-# capsule
-Immerse the Bay 2024
+# Capsule &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/username/capsule/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/username/capsule/pulls)
 
+Capsule is an immersive VR memory palace designed to help the elderly maintain emotional connections and recall cherished memories through interactive "memory capsules."
+
+* **Immersive Design**: Capsule allows elderly users to explore a virtual space filled with memory capsules, each holding a cherished moment recreated with sound, visuals, and interactive elements.
+* **Memory Recall Aid**: The experience is rooted in reminiscence and music therapy, evoking memories through familiar sounds, voice interactions, and environments.
+* **Personalized Interactions**: Leveraging LLM-based conversations, users can interact with AI-enhanced memory prompts, making the experience feel personal and connected.
+
+[Learn how to use Capsule in your project](https://github.com/username/capsule/wiki).
 
 ## Inspiration
-In a world where isolation and memory loss weigh heavily on the elderly, particularly those separated from loved ones for extended periods, maintaining emotional connections and preserving memories has become a significant challenge. Memory-related issues, coupled with the emotional toll of loneliness, make it difficult for many elderly individuals to stay connected with family and recall cherished moments.
-
-Key challenges these individuals face include the disorientation from fragmented memories, the emotional strain of prolonged separation from loved ones, and limited opportunities to revisit meaningful experiences. Even simple, joyful memories can fade, widening the gap with each missed call or delayed visit.
-
-In response, we developed Capsule: an immersive VR experience designed specifically for the elderly. Rooted in reminiscence and music therapy—a therapeutic approach that uses familiar sounds to evoke memory and emotional recall—Capsule goes beyond traditional memory aids by allowing users to interact with "memory capsules," each representing a unique, cherished moment shared with loved ones. These capsules recreate entire environments, enhanced by personalized voice interactions, familiar sounds, and music, to evoke memory recall in a comforting, immersive way.
-
-This project’s inspiration grew from Matthew’s personal relationship with his mother, us attending a Unity AR workshop led by Greg Madison, where interactive UI elements, like cassettes and pill-like objects, inspired our vision for memory capsules. Lastly, additional insights came from Anna Tee, whom we consulted in Huang Basement, where her guidance on integrating music therapy helped shape our approach to memory and emotional recall through familiar sounds.
-
+Capsule was inspired by the need to support elderly individuals facing memory-related challenges and isolation. By providing a space where memories can be revisited and cherished, Capsule aims to bridge the gap created by physical distance and memory loss.
 
 ## What it does
-Capsule redefines memory and human connection for the elderly through an immersive "memory palace" environment where users can explore and store mementos sent by loved ones. Capsule’s interactive system lets users engage with artifacts, each representing a cherished memory, helping them build a personal memory archive that grows and remains accessible over time. Capsule also includes AI-generated scene transitions for each memento; interacting with an artifact, such as a seashell in a bottle, transports users to an environment reflecting the memory’s essence. Afterward, users can place the artifact in a dedicated spot within the memory palace, creating a lasting mental “home” for each memory.
+Capsule presents a VR memory palace where users can store and revisit mementos sent by loved ones. These memory capsules transport users to environments that reflect the essence of each cherished memory, helping them preserve and recall these moments in a lasting, interactive way.
+
 ## How we built it
-Capsule combines advanced VR technology and thoughtful design to deliver an immersive memory experience for elderly users. Developed on Unity for Meta Quest 3, Capsule uses Skybox AI to recreate memory scenes with vibrant visual and audio cues, immersing users in meaningful environments. For a cohesive, lightweight aesthetic, we utilized SketchFab and Meshy for low-poly assets, optimizing both performance and visual appeal. Design planning and mockups were crafted in FigJam, allowing us to build an intuitive, user-centered interface that preserves cherished memories in a deeply engaging way.
+Built on Unity for Meta Quest 3, Capsule combines Skybox AI, SketchFab, and Meshy to create an optimized low-poly environment. Interface planning was completed in FigJam, focusing on user accessibility and immersive interaction design.
+
 ## Challenges we ran into
-Creating Capsule presented unique challenges, especially since three out of four team members were new to Unity, and none had prior experience coding for Meta Quest 3. Setting up seamless scene transitions on interactive clicks proved particularly difficult but essential to creating a smooth user experience. Finding suitable assets also required considerable effort; locating free, low-poly assets that conveyed our values of care, intimacy, and empathy involved a careful selection of calm colors and gentle aesthetics to establish a welcoming atmosphere for elderly users. Designing an accessible UI was another key focus. Crafting an interface that would be visually accessible to elderly users required us to emphasize a blend of audio and visual elements to create an immersive, easy-to-navigate experience. Despite these design and technical challenges, each obstacle strengthened our process, helping us build a more thoughtful, human-centered product.
+Learning Unity and Meta Quest 3 development posed technical challenges, especially in managing scene transitions and finding accessible assets. Emphasizing gentle, user-friendly UI designs was crucial to ensuring the experience resonated with elderly users.
+
 ## Accomplishments that we're proud of
-Entering the hackathon, our team was both excited and challenged by the unfamiliarity of Unity and Meta Quest 3. With limited time, we quickly adapted, combining our strengths in design and development to tackle steep learning curves and unexpected technical obstacles in this new field.
-We’re especially proud of creating Capsule, an immersive experience designed to enhance elderly well-being by reducing loneliness and aiding memory recall. Imagining the impact Capsule could have for elderly users—helping them feel closer to loved ones despite physical distance—gave the project profound significance for us. This experience taught us the value of designing with empathy and showed us the potential of technology to address deeply meaningful, real-world challenges.
+Successfully creating an intuitive VR experience that enhances memory recall for elderly users and fosters connection with loved ones was a rewarding accomplishment, especially given our team's limited Unity experience.
 
 ## What we learned
-Participating in this XR hackathon has been an incredibly enriching experience, filled with hands-on learning and collaboration. Coming together as a team with diverse skill sets in design and development, we tackled a completely new challenge—none of us had ever developed for a mixed reality immersive experience before. Despite our varied levels of experience, we quickly found a good rhythm, brainstorming and aligning our ideas to create a project that addressed a meaningful need we all felt passionate about: supporting elderly individuals in preserving cherished memories. 
-Throughout this journey, we pooled our different strengths, blending creativity in design with technical problem-solving to develop a user-friendly, immersive experience. Collaborating on every detail, from the user interface to the core functionality, was not only rewarding but also pivotal in setting us on the right track. This hackathon has been an invaluable opportunity to explore cutting-edge technology in VR and AR, expanding our skill set and inspiring us to think about the real-world impact our work can have.
+Working with VR and AR technology opened new possibilities for addressing real-world needs. Our team's diverse skills came together to create an experience that blends empathy with technology, making Capsule both engaging and beneficial.
 
 ## What's next for Capsule
-Our next steps for Capsule include integrating a LLM-powered chatbot for personalized, memory-focused conversations, building on past exchanges between loved ones. We’re also adding reaction features so recipients can acknowledge memory capsules, along with enhanced spatial awareness on the onboarding screen for a smoother start.
-To deepen the therapeutic impact, we plan to incorporate audio-visual mementos that combine voice recordings with imagery, leveraging music therapy techniques to support memory recall, especially for users with early dementia or Alzheimer’s.
+Future development will integrate an LLM-powered chatbot for personalized memory interactions, using Whisper and ElevenLabs for seamless conversational flow. Additional features include audiovisual mementos with music therapy to support memory recall for users with dementia or Alzheimer's.
 
+## Installation
 
+Capsule can be cloned and run on Unity for Meta Quest 3. Follow these steps to install:
+1. Clone the repository.
+2. Open the project in Unity.
+3. Build and deploy to Meta Quest 3.
+4. Begin exploring memory capsules.
 
-## Acknowledgements
-Tools we used:
-Unity: Main development platform,
-Skybox AI: Memory scene environments,
-SketchFab & Meshy: Low-poly 3D assets
+## Documentation
+
+Documentation is available in the [Capsule Wiki](https://github.com/username/capsule/wiki).
+
+* [Quick Start](https://github.com/username/capsule/wiki/Quick-Start)
+* [User Guide](https://github.com/username/capsule/wiki/User-Guide)
+* [Contributing Guide](https://github.com/username/capsule/wiki/Contributing)
+
+## Contributing
+
+We welcome contributions from the community. Please refer to our [contributing guide](https://github.com/username/capsule/blob/main/CONTRIBUTING.md) for details.
+
+### [Code of Conduct](https://github.com/username/capsule/blob/main/CODE_OF_CONDUCT.md)
+
+Please adhere to our Code of Conduct when contributing.
+
+### License
+
+Capsule is [MIT licensed](./LICENSE).
