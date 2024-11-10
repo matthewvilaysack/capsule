@@ -6,8 +6,6 @@ Capsule is an immersive VR memory palace designed to help the elderly maintain e
 * **Memory Recall Aid**: The experience is rooted in reminiscence and music therapy, evoking memories through familiar sounds, voice interactions, and environments.
 * **Personalized Interactions**: Leveraging LLM-based conversations, users can interact with AI-enhanced memory prompts, making the experience feel personal and connected.
 
-[Learn how to use Capsule in your project](https://github.com/username/capsule/wiki).
-
 ## Inspiration
 Capsule was inspired by the need to support elderly individuals facing memory-related challenges and isolation. By providing a space where memories can be revisited and cherished, Capsule aims to bridge the gap created by physical distance and memory loss.
 
