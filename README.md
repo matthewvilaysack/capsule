@@ -1,4 +1,4 @@
-# Capsule &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/matthewivlayscak/capsule/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/matthewvilaysack/capsule/pulls)
+# Capsule &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/matthewvilaysack/capsule/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/matthewvilaysack/capsule/pulls)
 
 Capsule is an immersive VR memory palace designed to help the elderly maintain emotional connections and recall cherished memories through interactive "memory capsules."
 
