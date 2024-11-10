@@ -45,10 +45,6 @@ Documentation is available in the [Capsule Wiki](https://github.com/username/cap
 
 We welcome contributions from the community. Please refer to our [contributing guide](https://github.com/username/capsule/blob/main/CONTRIBUTING.md) for details.
 
-### [Code of Conduct](https://github.com/matthewvilaysack/capsule/blob/main/CODE_OF_CONDUCT.md)
-
-Please adhere to our Code of Conduct when contributing.
-
 ### License
 
 Capsule is [MIT licensed](./LICENSE).
